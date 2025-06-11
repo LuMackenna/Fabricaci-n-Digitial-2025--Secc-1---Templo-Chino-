@@ -1,0 +1,4 @@
+CHINESE ANCIENT TERRACOTTA WARRIORS by Revopoint on Thingiverse: https://www.thingiverse.com/thing:4797827
+
+Summary:
+This warrior model was made by Revopoint POP. I used the POP scanner to scanned the ceramics  warrior to generate a PLY file and then transform it into a stl file.As this ceramics warrior model is black, so we must modify the default setting to special black scanning mode firstly.Put this ceramics warrior model on turnplate to scanned it several laps as well as head and feet. Then export a PLY file from Handyscan, dispose this file with 3D Model Process to mesh it.We can export a STL or OBJ file from 3D Model Process.In the end,I slice this stl with idealmaker. The slice parameters setting as the Ender-3 default parameters. Don't need support.Finally I used this gcode to print a white warrior model.If you want to get more models like this, please try to use 3D scanner POP: https://bit.ly/3xb37c3
